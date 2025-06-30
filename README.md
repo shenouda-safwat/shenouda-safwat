@@ -6,7 +6,7 @@
 - 🌱 I’m learning **advanced ML deployment & MLOps**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/shenouda-safwat)
 - 📫 How to reach me **shenouda.ibrahim.ai@gmail.com**
-- 📄 Know about my experiences [View My CV](#)
+- 📄 Know about my experiences [View My CV](https://drive.google.com/file/d/11m8ljza8cMEbDLPepBbKu-IH0fXQdPrM/view?usp=sharing)
 
 ---
 
