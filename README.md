@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Eng. Shenouda Safwat</h1>
+<h1 align="center">Hi 👋, I'm Shenouda Safwat</h1>
 <h3 align="center">Freelance AI & Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **AI Structural Design Generator**
