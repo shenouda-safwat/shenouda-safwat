@@ -27,11 +27,13 @@ Python | PyTorch | TensorFlow | OpenCV | Pandas | Scikit-Learn | YOLO | MLOps | 
 
 ### 🌟 Projects
 Check out all projects: [GitHub](https://github.com/shenouda-safwat)  
-- **AI Structural Design Automation**  
+- **Deepfake_detection_using_ML**  
 - **Plant Disease Detection**  
-- **Facial Emotion Recognition**  
+- **heart-disease-prediction-ML**  
 - **Netflix Stock Prediction ML**  
-- **CV AI System for Resume Analysis**  
+- **loan-approval-ML**
+- **electric-car-range-prediction**
+- **PlantHealth_EfficientNet**
 
 ---
 
