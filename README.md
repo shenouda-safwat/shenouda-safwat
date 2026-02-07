@@ -37,13 +37,6 @@ Check out all projects: [GitHub](https://github.com/shenouda-safwat)
 
 ---
 
-### 📊 Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shenouda-safwat&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenouda-safwat&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### ⚡ Fun Fact
 I love **reading and exploring new AI technologies**
